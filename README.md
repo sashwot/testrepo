@@ -1,4 +1,4 @@
-# Data Science Capstone Projects
-# # IBM Data Science Capstone Projects
+# Data Science Projects
+
 
 
